@@ -1,2 +1,2 @@
 # hello-world
-this is a hello world readme file
+hello my name is phillip and i go to uc
